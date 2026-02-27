@@ -13,11 +13,10 @@
 ---
 
 ## 🧩 About Me
-- don't waste time with crypto
 - 🏠 Based in **The Matrix**
 - 🤖 Building at the intersection of **AI** and **Web3**
 - 🧠 Passionate about **Embodied Intelligence** — bridging AI with the physical world
-- ⛓️ Deep in **Crypto/DeFi** — on-chain strategies, MEV, perpetual markets
+- ⛓️ Don't waste time with crypto, but Deep in **DeFi** — on-chain strategies, MEV, perpetual markets
 - 🛠️ Neovim enthusiast, terminal dweller
 - 🎯 Philosophy: *Code is law. Intelligence is freedom.*
 
