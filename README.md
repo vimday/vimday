@@ -13,7 +13,7 @@
 ---
 
 ## 🧩 About Me
-
+- don't waste time with crypto
 - 🏠 Based in **The Matrix**
 - 🤖 Building at the intersection of **AI** and **Web3**
 - 🧠 Passionate about **Embodied Intelligence** — bridging AI with the physical world
