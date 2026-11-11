@@ -10,11 +10,14 @@ It's time to build.
 
 I build data platforms for embodied AI and work on AI infrastructure. My work spans multimodal data processing, annotation, dataset quality, and distributed systems.
 
-## `~/work` · What I build
+## `~/work` · Engineering work
 
-- **Workflow graph engine for embodied AI.** I built a graph-based engine from scratch to orchestrate robot data processing. It lets teams compose processing steps into reusable workflows with explicit dependencies.
-- **Robotics data platforms.** I work on pipelines that turn multimodal robot data into annotated, validated, versioned datasets.
-- **AI infrastructure.** I build the distributed services that run and deliver these data workflows.
+| Area | Work |
+| --- | --- |
+| **Data platforms** | Pipelines for processing, annotating, validating, and versioning multimodal robot datasets. |
+| **AI infrastructure** | Distributed services that run data workflows and deliver datasets. |
+| **Workflow graph engine** | Built an engine from scratch to run robot data processing steps with explicit dependencies. |
+| **Advertising platform** | Go backend development for an advertising platform, from before I used coding agents in my daily work. |
 
 ## `~/src` · Projects
 
