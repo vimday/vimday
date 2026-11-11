@@ -1,17 +1,26 @@
 # Neo `@vimday`
 
-```text
-neo@alphawink:~$ cat /etc/motd
+```console
+neo@the-matrix:~$ cat /etc/motd
 It's time to build.
 ```
 
-I build tools for the terminal and experiment with AI agents. My editor is Neovim; my workbench is Linux.
+I build data platforms for embodied AI and work on AI infrastructure. Outside work, I build terminal tools and experiment with agents and systems I can inspect and replay. Neovim is my editor; Linux is my workbench.
 
-## `~/src`
+## `~/src` · What I'm building
 
-- **[crow-code](https://github.com/vimday/crow-code)** — a Rust coding agent that verifies proposed changes in a sandbox.
-- **[dotfiles](https://github.com/vimday/dotfiles)** — the config behind my daily setup, tracked with `yadm`.
+| Project | What I'm working on |
+| --- | --- |
+| **AlephTX** | Perpetual futures execution and relative-value research, with market replay and simulation. |
+| **Oasis Agent** | A research agent that records the evidence behind decisions and checks risk before execution. |
+| **[Crow CLI](https://github.com/vimday/crow-code)** | A Rust coding agent for the terminal that verifies changes in a sandbox. |
 
-Currently exploring agent runtimes, MCP, and embodied intelligence. I reach for Rust, Go, and Python.
+## `~/stack`
 
-[AlphaWink ↗](https://alphawink.com/) · [Email](mailto:ms0x7f@gmail.com)
+| Area | Tools |
+| --- | --- |
+| Systems | Rust · Go · Python |
+| AI | LLM agents · MCP · PyTorch |
+| Workbench | Linux · Neovim · Git · Docker |
+
+[AlphaWink](https://alphawink.com/) · [Email](mailto:ms0x7f@gmail.com)
