@@ -23,8 +23,8 @@ I build data platforms for embodied AI and work on AI infrastructure. My work sp
 
 | Project | Focus |
 | --- | --- |
-| **[AlephTX](https://github.com/AlephTX/aleph-tx)** | Perpetual futures execution and relative-value research with market replay and simulation. |
-| **[Oasis Agent](https://github.com/vimday/oasis-agent)** *(private)* | Market research with replayable decision evidence and risk checks. |
+| **[AlephTX](https://github.com/AlephTX/aleph-tx)** | Cross-venue perpetual futures research. Replays both legs against recorded order-book depth, funding, and reference prices, then reports simulated fills, fees, and slippage. |
+| **[Oasis Agent](https://github.com/vimday/oasis-agent)** *(private)* | Evidence-driven market research and execution. Records the source and state behind each observation, replays strategy decisions, and checks loss and exposure limits before execution. |
 | **[Crow CLI](https://github.com/vimday/crow-code)** | A Rust coding agent for the terminal that verifies changes in a sandbox. |
 
 ## `~/tools` · Daily setup
